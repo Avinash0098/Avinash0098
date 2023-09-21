@@ -1,3 +1,4 @@
+![logo](https://github.com/Avinash0098/Avinash0098/blob/main/Linkedin_Cover_-_Data_Enthusiast_qgfd0z.png)
 <h1 align="center">Hi 👋, I'm Avinash Srivastava</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
